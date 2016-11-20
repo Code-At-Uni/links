@@ -1,4 +1,3 @@
-# links
 Software links we reccommend everyone to download before each of our sessions.
 
 ## Code Editors
