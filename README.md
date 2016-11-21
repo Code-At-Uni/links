@@ -6,7 +6,7 @@ Software links we reccommend everyone to download before each of our sessions.
 - [VS Code](https://code.visualstudio.com/) - A Code Editor by Microsoft
 
 ## Extensions for Error Checking
-All of hte plugins exist for most of code editors, the examples here are for Atom:
+All of the plugins exist for most of code editors, the examples here are for Atom:
 - [linter-htmllint](https://atom.io/packages/linter-htmlhint) - Checks errors and typos in your HTML
 - [linter-csslint](https://atom.io/packages/linter-csslint) - Checks errors in your CSS
 
