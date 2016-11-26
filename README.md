@@ -8,7 +8,7 @@ Please choose one:
 
 ## Communications
 Download Slack and then click the second link to join our channel
-- [Slack](https://slack.com/) - Communicate, send links to everyone who attends our courses
+- [Slack](https://slack.com/downloads/) - Communicate, send links to everyone who attends our courses
 - [Slack Alumni Channel](https://code-at-uni-slack.herokuapp.com/) - Join us if you have been to one of our classes
 
 ## Freebies
