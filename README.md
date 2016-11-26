@@ -12,6 +12,7 @@ All of the plugins exist for most of code editors, the examples here are for Ato
 
 ## Communications
 - [Slack](https://slack.com/) - Communicate, send links to everyone who attends our courses
+- [Slack Alumni Channel](https://code-at-uni-slack.herokuapp.com/) - Join us if you have been to one of our classes
 
 ## Git 
 - [Github Desktop](https://desktop.github.com/) - Think like dropbox for code, with great collaboration tools
