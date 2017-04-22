@@ -1,4 +1,4 @@
-Software links we reccommend everyone to download before each of our sessions.
+Software links we recommend everyone to download before each of our sessions.
 
 ## Code Editors
 Please choose one: 
